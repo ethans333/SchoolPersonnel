@@ -1,0 +1,43 @@
+
+
+Report Created On 2022/11/30
+***********************
+
+
+Faculty Members
+-------------------------
+1. Art Woodruff
+ID: aw1234
+Professor, Mathematics
+
+2. Arnold Fredrickson
+ID: af1234
+Professor, Mathematics
+
+
+
+Staff Members
+-------------------------
+1. Shayla Smith
+ID: ss1234
+Mathematics, Full Time
+
+
+
+Students (Sorted by GPA)
+-------------------------
+1. Ethan Stein
+ID: es1234
+GPA: 3.7
+Credit Hours: 10
+
+2. Sarah Conner
+ID: sc1234
+GPA: 3.0
+Credit Hours: 12
+
+3. John Doe
+ID: jd1234
+GPA: 1.9
+Credit Hours: 3
+
